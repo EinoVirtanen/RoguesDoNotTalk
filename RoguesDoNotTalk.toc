@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Rogues Do Not Talk
+## Notes: Disables chat for Rogues, enables it for everyone else.
+## Author: You
+## Version: 1.0
+
+RoguesDoNotTalk.lua
